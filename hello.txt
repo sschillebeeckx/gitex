@@ -1,5 +1,1 @@
 Hello from Sandy!
-Hello from second user!
-Hello from third user!
-Hello from fourth user!
-Hello from fifth user!
