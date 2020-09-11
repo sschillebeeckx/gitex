@@ -1,2 +1,4 @@
 Hello from Sandy!
 Hello from Bruno!
+Hello from Bart!
+Hello from Patrick
