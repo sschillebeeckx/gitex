@@ -10,3 +10,5 @@ Hello from Thierry
 Hello from Dirk
 Hello from Kristof
 Hello from Sonja
+Hello from Sonja
+Hello from Kris
