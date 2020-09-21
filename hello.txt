@@ -8,3 +8,4 @@ Hello from Patrick
 Hello from Cecile !
 Hello from Thierry
 Hello from Siegfried
+Hello from Sonja
