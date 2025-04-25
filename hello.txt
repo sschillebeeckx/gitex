@@ -13,13 +13,20 @@ Wazzaaaa from RmanAKAIzzy!
 hello from ignace
 Hello from Sandy again!
 Hello from Tim!
+<<<<<<< HEAD
 Hello from Rajesh
 <<<<<<< HEAD
 Hello from Anz303
 =======
 <<<<<<< HEAD
-Hello from Tushar
 =======
+Hello from Rajesh!
+Hello from BrunoD ;-)
+>>>>>>> origin
+Hello from Tushar
 Hello from Raghu!
+<<<<<<< HEAD
 >>>>>>> 3d22b1d5a96d5082c7656fc3f60ce6e1f5f2a08d
+>>>>>>> origin
+=======
 >>>>>>> origin
