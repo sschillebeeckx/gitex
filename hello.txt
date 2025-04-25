@@ -14,10 +14,7 @@ hello from ignace
 Hello from Sandy again!
 Hello from Tim!
 Hello from Rajesh
-<<<<<<< HEAD
 Hello from Jeroen :-)
-=======
 Hello from BrunoD ;-)
 Hello from Tushar
 Hello from Raghu!
->>>>>>> c1b203659ce29e99c0bff6e9d1e98b70de960f17
