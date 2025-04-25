@@ -14,4 +14,12 @@ hello from ignace
 Hello from Sandy again!
 Hello from Tim!
 Hello from Rajesh
+<<<<<<< HEAD
 Hello from Anz303
+=======
+<<<<<<< HEAD
+Hello from Tushar
+=======
+Hello from Raghu!
+>>>>>>> 3d22b1d5a96d5082c7656fc3f60ce6e1f5f2a08d
+>>>>>>> origin
