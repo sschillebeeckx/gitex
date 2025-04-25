@@ -14,10 +14,17 @@ hello from ignace
 Hello from Sandy again!
 Hello from Tim!
 Hello from Rajesh
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello from Bert!!
+=======
+<<<<<<< HEAD
+=======
 Hello from Jeroen :-)
+>>>>>>> origin
 Hello from Anz303
 Hello from Rajesh!
 Hello from BrunoD ;-)
 Hello from Tushar
 Hello from Raghu!
-
+Hello from Bert
