@@ -23,9 +23,13 @@ Hello from Tushar
 Hello from Raghu!
 Hello from Bert
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello from Dwara
 Hello from Gaurav
 =======
+=======
+Hello from Senthil!!
+>>>>>>> 44f903a0327e7e2562f092e37360428a26fecae3
 Hello from Philippe
 Hello from Swaleha
 Salut ti z'aut from Eddy
@@ -35,5 +39,8 @@ Hello from Dwara
 =======
 Hello from Dwara
 Hello from Sarper!
+<<<<<<< HEAD
 
 >>>>>>> 9572500996497c5a01e96f01bc01c6b51f1ec731
+=======
+>>>>>>> 44f903a0327e7e2562f092e37360428a26fecae3
