@@ -22,5 +22,12 @@ Hello from BrunoD ;-)
 Hello from Tushar
 Hello from Raghu!
 Hello from Bert
+<<<<<<< HEAD
 Hello from Dwara
 Hello from Gaurav
+=======
+Hello from Philippe
+Hello from Swaleha
+Salut ti z'aut from Eddy
+Hello from Dwara
+>>>>>>> 80454f7686cde86ef91d3e26e5be7c8191cc4b2f
