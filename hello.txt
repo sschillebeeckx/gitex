@@ -30,4 +30,10 @@ Hello from Philippe
 Hello from Swaleha
 Salut ti z'aut from Eddy
 Hello from Dwara
+<<<<<<< HEAD
 >>>>>>> 80454f7686cde86ef91d3e26e5be7c8191cc4b2f
+=======
+Hello from Dwara
+Hello from Sarper!
+
+>>>>>>> 9572500996497c5a01e96f01bc01c6b51f1ec731
